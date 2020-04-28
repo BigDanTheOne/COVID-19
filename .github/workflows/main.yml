@@ -26,7 +26,4 @@ jobs:
 
     - name: launch script
       run: |
-        ls
-        cd ../..
-        ls
         bash init.sh
